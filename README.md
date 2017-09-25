@@ -1,7 +1,7 @@
 # Traffic light detection in Udacity's self driving car simulator
 ## API used
 The following Tensorflow API has been used to train the classifier:
-https://github.com/tensorflow/models/tree/master/object_detection
+https://github.com/tensorflow/models/tree/master/research/object_detection
 ## Image samples used for the training:
 Image samples used for the training can be found under the following link in the  sim_data-capture folder:
 https://drive.google.com/drive/folders/0Bx-GmE9uBTsCNlVFeFVVWldXN1U?usp=sharing
